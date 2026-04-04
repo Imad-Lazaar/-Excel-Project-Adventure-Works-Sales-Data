@@ -16,6 +16,7 @@ L'objectif de ce projet est de transformer des données de ventes simples en un 
 
 ## Aperçu du Projet
 <img width="1311" height="598" alt="Capture" src="https://github.com/user-attachments/assets/79d5e746-446a-4420-93fc-7af078584795" />
+---
 <img width="902" height="626" alt="Capture 2" src="https://github.com/user-attachments/assets/236990f4-5af9-4b95-a220-7cd1457cf56b" />
 
 
